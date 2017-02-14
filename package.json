@@ -1,0 +1,14 @@
+{
+  "name": "array_reduce_sum",
+  "version": "1.0.0",
+  "description": "NPM package for summing numbers in an array to a single value",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Alex Emrie",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}

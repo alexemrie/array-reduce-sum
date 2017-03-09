@@ -1,5 +1,5 @@
 {
-  "name": "array_reduce_sum",
+  "name": "array-reduce-sum",
   "version": "1.0.0",
   "description": "NPM package for summing numbers in an array to a single value",
   "main": "index.js",
